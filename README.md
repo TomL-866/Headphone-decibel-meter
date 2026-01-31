@@ -32,8 +32,8 @@ Once the Orban meter is running and logging data:
     ```powershell
     python main.py
     ```
-3.  **Input Specifications:** Enter the required values for your specific headphones. 
-    > *Note: These specs (Sensitivity/Impedance) are usually available online.*
+3.  **Input Specifications:** Enter the required values for your specific headphones and DAC. 
+    > *Note: These specs are usually available online.*
 
 ---
 
