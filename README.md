@@ -1,6 +1,6 @@
 # Headphone-Decibelmeter
 
-A Python-based utility that monitors and displays your headphone decibel in real-time by interfacing with the Orban Loudness Meter.
+A Python-based utility that monitors and displays the decibel output of your headphones in real-time by interfacing with the Orban Loudness Meter.
 
 I mainly made this so that I can tell when I'm approaching unsafe listening levels. 
 
