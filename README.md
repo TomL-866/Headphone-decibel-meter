@@ -1,4 +1,4 @@
-# Headphone-Decibelmeter
+# Headphone decibel meter
 
 A Python-based utility that monitors and displays the decibel output of your headphones in real-time by interfacing with the Orban Loudness Meter.
 
