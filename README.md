@@ -25,7 +25,7 @@ To allow the Python script to read your audio data, you must configure the Orban
 ---
 
 ### How to Run
-Once the Orban meter is running and logging data:
+Once Orban Loudness Meter is running and logging data:
 
 1.  **Open Terminal in folder containing main.py**
 2.  **Launch Script:**
