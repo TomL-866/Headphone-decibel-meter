@@ -15,7 +15,7 @@ Before you begin, ensure you have the following installed:
 
 ---
 
-### Initial Setup (Orban Meter)
+### Setup (Orban Loudness)
 To allow the Python script to read your audio data, you must configure the Orban Loudness Meter to log its output:
 
 1.  **Select Device:** Open Orban Loudness Meter, go to **Settings**, and select your audio device from the **Audio** dropdown.
