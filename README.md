@@ -40,4 +40,3 @@ Once Orban Loudness Meter is running and logging data:
 ### Contributing
 Spot any issues or want to improve this? 
 * Please submit a **Pull Request**!
-* Feedback and bug reports are always welcome.
